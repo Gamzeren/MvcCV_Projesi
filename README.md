@@ -49,7 +49,7 @@ Kullanıcılar, sisteme giriş yapabilmek için kendilerine tanımlanmış kulla
 ### ⭐️ İletişim Sayfası
 "İletişim" bölümünde veri tabanı üzerindeki TblIletisim tablosundaki verileri görüntülemekteyiz. Burada bulunan veriler CV sayfasında sayfamı ziyaret eden kişilerin bana gönderdiği mesajlardır. Bu veriler de yine veri tabanı üzerinde tutulmaktadır. Tüm mesajları bu bölümden görüntüleyebiliriz.
 
-![Image](https://github.com/user-attachments/assets/35ae3d07-0c0a-47b1-83c8-224b4e5c7bf9)
+![Image](https://github.com/user-attachments/assets/7040291b-794a-4d96-82f2-4078b6281902)
 
 ### ⭐️ Sosyal Medya Sayfası
 "Sosyal medya" bölümünde CV sayfasındaki Hakkımda bölümünde bulunan sosyal medya hesap bağlantılarının olduğu bölüm ile ilgili bilgiler tutulmaktadır. Burada bulunan "Yeni Sosyal Medya Hesabı Ekle" butonu ile Popup açıp onun üzerinden veri tabanına yeni bir sosyal medya hesabı ekleyebiliriz. "Güncelle" butonuna tıklarsak hangi satırdaki butona tıkladığımıza göre o satırdaki bilgiler sosyal medya hesabı güncelleme sayfasına taşınır ve o sayfada bize güncelleme yapma imkanı sunar. TextBox araçlarında yapılan değişiklikler sonucu "Güncelle" butonuna tıklanırsa veriler veri tabanı üzerinde güncellenecektir. "Sil" butonuna tıklanırsa hangi satırdaki sil butonu kullanıldıysa o satırdaki veriler pasif duruma alınır. CV sayfası üzerinde ise yalnızca aktif durumdaki sosyal medya hesapları bulunur. Veri tabanında sosyal medya sitesinin adı, link'i ve ikonu bulunmaktadır.
